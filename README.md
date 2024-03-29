@@ -164,3 +164,14 @@
 ### v 1.0
 * WouoUI v 2.0 通用版本分支，灵感来自 macOS 程序坞的波浪效果。
 * 继承了通用的特性，即支持任意行高，任意字高，任意屏幕分辨率，增加支持调整抛物线曲率。
+
+# 彩蛋
+wysi!!!!!
+
+<img width="334" alt="WYSI" src="https://github.com/RQNG/WouoUI/assets/115459678/95d5ad58-c3ec-490e-9794-b8e99b5d3dbc">
+
+*注：这是一个梗，来自大型多人在线音乐播放器 osu! ，用户 cookiezi 在跟随 Blue Zenith 这首歌摆动时在快结束的地方出现失误，非常可惜，但即使如此，这次摆动依然创造了一个传奇的记录，727pp。这个数字会变成梗与接下来发生的事有关，该用户之后几年用不同模式多次尝试，相同的情景多次重演，并且结果都是727pp。由于围观者众多，这个数字就像诅咒一样在用户群体中蔓延开来，在一次直播中，用户 aireu 再次经历了相同的情形，该用户指着这个数字惊呼 when you see it，这引起了模因，之后看到该数字时指着它惊呼 wysi 成为了一个梗，类似于在说“看，诅咒又出现了”。
+
+*用户 cookiezi 的直播：https://www.bilibili.com/video/BV15s411R77R/?vd_source=cfcb1e50b67699f30fb509019a7d7d72
+
+*用户 aireu 的直播：https://www.bilibili.com/video/BV1dK421C7hd/?vd_source=cfcb1e50b67699f30fb509019a7d7d72
